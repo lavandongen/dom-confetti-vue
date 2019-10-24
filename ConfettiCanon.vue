@@ -5,7 +5,7 @@
 <script lang="ts">
 // CONVERTED FROM https://github.com/daniel-lundin/dom-confetti BY https://github.com/lavandongen
 
-import { Component,	Vue, Prop } from 'vue-property-decorator';
+import { Component, Vue, Prop } from 'vue-property-decorator';
 
 @Component
 export default class ConfettiCanon extends Vue {
