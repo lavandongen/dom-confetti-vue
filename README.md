@@ -4,7 +4,7 @@ Move the `.vue` file to your components folder and import it as usual. Then wher
 ## Example
 import and cofigure the confetti canon.
 ```ts
-import { Component,	Vue } from 'vue-property-decorator';
+import { Component, Vue } from 'vue-property-decorator';
 
 import ConfettiCanon from '@/components/ConfettiCanon.vue'
 
