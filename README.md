@@ -1,4 +1,12 @@
 # Vue Confetti (TypeScript)
+A conversion from dom-confetti (https://github.com/daniel-lundin/dom-confetti) from React to a Vue component that uses TypeScript.
+
+## Requirements
+This file uses `TypeScript` make sure your Vue project runs using TypeScript using the `Class-Style` based implementation.
+
+If you wish to use this without TypeScript, [Claudia Ochoa](https://github.com/claudia-ochoa) made a conversion from this to vanilla Vue that can be found here: https://github.com/claudia-ochoa/vue-confetti
+
+## Usage
 Move the `.vue` file to your components folder and import it as usual. Then wherever you import the file position the pixel wherever you want it. And pass a config if you want.
 
 ## Example
@@ -34,11 +42,6 @@ Then include that it with the config (if you have a config) in the `<template>`.
 ```html
 <confetti-canon :config="confettiConfig" />
 ```
-
-## Requirements
-This file uses `TypeScript` make sure your Vue project runs using TypeScript using the `Class-Style` based implementation.
-
-If you wish to use this without TypeScript, [Claudia Ochoa](https://github.com/claudia-ochoa) made a conversion from this to vanilla Vue that can be found here: https://github.com/claudia-ochoa/vue-confetti
 
 ## Credits
 This file was converted from [dom confetti](https://github.com/daniel-lundin/dom-confetti) and all credit goes to [Daniel Lundin](https://github.com/daniel-lundin).
