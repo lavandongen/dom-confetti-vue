@@ -1,5 +1,5 @@
 # Vue Confetti (TypeScript)
-A conversion from dom-confetti (https://github.com/daniel-lundin/dom-confetti) from React to a Vue component that uses TypeScript.
+A conversion from dom-confetti (https://github.com/daniel-lundin/dom-confetti) to a Vue component that uses TypeScript.
 
 ## Requirements
 This file uses `TypeScript` make sure your Vue project runs using TypeScript using the `Class-Style` based implementation.
